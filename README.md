@@ -18,7 +18,7 @@ This folio serves as a technical foundation for my ongoing development as a soft
 
 - 🌐 GitHub: [codekikicode](https://github.com/codekikicode)  
 - 🧠 Languages: Java (primary), C++ (primary), Python (learning), HTML/CSS (familiar)  
-- 🛠️ Tools: IntelliJ IDEA, Git, Visual Studio Code  
+- 🛠️ Tools: IntelliJ IDEA, Git, NetBeans  
 
 ---
 
