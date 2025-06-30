@@ -1,6 +1,6 @@
 # 👶 Babysitter Payroll
 
-A Java program designed to calculate the payroll for babysitters based on hourly rates and hours worked. Babysitters earn different rates depending on the time of day: a regular evening rate until 9:00 PM, a reduced rate until midnight, and a premium rate after midnight. This assignment reinforces structured programming techniques by emphasizing clarity, modularity, and accurate conditional logic.
+A Java program designed to calculate the payroll for babysitters based on hourly rates and actual hours worked. Babysitters earn different rates depending on the time of day: a regular evening rate until 9:00 PM, a reduced rate until midnight, and a premium rate after midnight. 
 
 > All personnel and payroll data are provided within the program—no external input files are needed.
 
@@ -9,13 +9,13 @@ A Java program designed to calculate the payroll for babysitters based on hourly
 - Arithmetic operations and logical conditions
 - String parsing and time formatting
 - Sorting output in reverse alphabetical order by **first name**
-- Encapsulation using multiple classes (`Babysitter`, `BabysitterPayroll`)
+- Encapsulation using multiple classes
 - Program documentation and clear console output
 
 ## 📄 Files
-- `Babysitter.java` – stores personnel and payroll data, including rate logic
-- `BabysitterPayroll.java` – contains the main logic for computing and displaying the payroll
+- [`Babysitter.java`](./Babysitter.java) – stores personnel and payroll data, including rate logic
+- [`BabysitterPayrollSRC.java`](./BabysitterPayrollSRC.java) – contains the main logic for computing and displaying the payroll
 
 ---
 
-✅ This assignment demonstrates a strong grasp of conditional logic, method design, and time-sensitive pay calculations. It’s an excellent example of turning a real-world case study into readable and reusable code.
+✅ This assignment requires a strong grasp of conditional logic, method design, and time-sensitive pay calculations. It’s an excellent example of turning a real-world case study into readable and reusable code.
