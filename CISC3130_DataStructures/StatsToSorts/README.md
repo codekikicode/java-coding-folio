@@ -12,8 +12,11 @@ Designed to reinforce both mathematical operations and sorting algorithms, this 
 - Implementation of basic sort (bubble sort or selection sort)
 - Output formatting for readability
 
-## 📄 Files
-- [`StatsToSorts.java`](./StatsToSorts.java)
+## 📂 Files
+
+- [`StatsToSorts-SRC.java`](./StatsToSorts-SRC.java) – Main program logic
+- [`sort_test_input`](./sort_test_input) – Input file containing multiple datasets
+- [`Sorts_Test_OUTPUT.pdf`](./Sorts_Test_OUTPUT.pdf) – Cleaned output file showing sorting results and comparison counts
 
 ---
 
