@@ -10,7 +10,7 @@ A collection of control flow assignments from **CISC 1170**, focused on:
 - `LargestOf3.pdf` – Determines the largest value from three user inputs.
 - `Mangle1.pdf` – Applies condition-based transformation rules to user input.
 - `MedianOf3.pdf` – Identifies the median value among three inputs using nested conditionals.
-- `RangeOf3Temperatures.pdf` – Calculates the temperature range based on highest and lowest values.
+- `RangeOf3Temps.pdf` – Calculates the temperature range based on highest and lowest values.
 
 These assignments built confidence in using conditional logic to control the behavior of programs.
 
