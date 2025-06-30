@@ -19,5 +19,3 @@ Designed to reinforce both mathematical operations and sorting algorithms, this 
 - [`Sorts_Test_OUTPUT.pdf`](./Sorts_Test_OUTPUT.pdf) – Cleaned output file showing sorting results and comparison counts
 
 ---
-
-✅ This assignment highlights the power of combining numerical operations with clean, logical control flow to produce sorted, readable data output.
