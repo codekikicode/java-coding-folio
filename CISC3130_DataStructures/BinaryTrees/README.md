@@ -1,11 +1,9 @@
-# Binary Tree Tally
+### 🧮 BinaryTreeTally
 
-This program processes a binary tree of family nodes and provides statistics like node count, parent-child relationships, and traversal outputs.
+Java program that constructs and traverses a binary tree structure.  
+- 📄 [Source Code](BinaryTreeTally-SRC.java)  
+- 📤 [Sample Output](BinaryTreeTally-OUTPUT.pdf)
 
 ## 💡 Highlights
 - Implements recursive traversal methods (preorder, inorder, postorder)
 - Designed to convert family structures into binary trees
-- Refactored from handwritten Java for clarity and modular design
-
----
-Originally written for CISC 3130 (Data Structures) at Brooklyn College.
