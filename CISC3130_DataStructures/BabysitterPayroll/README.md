@@ -14,7 +14,7 @@ A Java program designed to calculate the payroll for babysitters based on hourly
 
 ## 📄 Files
 - [`Babysitter.java`](./Babysitter.java) – stores personnel and payroll data, including rate logic
-- [`BabysitterPayrollSRC.java`](./BabysitterPayrollSRC.java) – contains the main logic for computing and displaying the payroll
+- [`BabysitterPayroll.java`](./BabysitterPayroll.java) – contains the main logic for computing and displaying payroll data 
 
 ---
 
