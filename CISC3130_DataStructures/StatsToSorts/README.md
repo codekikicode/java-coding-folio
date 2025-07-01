@@ -16,6 +16,6 @@ Designed to reinforce both mathematical operations and sorting algorithms, this 
 
 - [`StatsToSorts-SRC.java`](./StatsToSorts-SRC.java) – Main program logic
 - [`sort_test_input`](./sort_test_input) – Input file containing multiple datasets
-- [`Sorts_Test_OUTPUT.pdf`](./Sorts_Test_OUTPUT.pdf) – Cleaned output file showing sorting results and comparison counts
+- [`Sorts_Test_OUTPUT.pdf`](./Sorts_Test_OUTPUT.pdf) – Output file illustrating sorting results and comparison counts
 
 ---
